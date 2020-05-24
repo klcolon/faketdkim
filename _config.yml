@@ -16,8 +16,8 @@
 locale: "en-US"
 title: Adventures of Terry Kim
 email: kcolon@caltech.edu
-repository: "klcolon/faketdkim.github.io"
-url: "https://klcolon.github.io/faketdkim.github.io/" # the base hostname & protocol for your site
+repository: "klcolon/faketdkim"
+url: "https://klcolon.github.io/faketdkim/" # the base hostname & protocol for your site
 github_username: klcolon
 teaser: /assets/images/glycans.png
 logo: "/assets/images/fucose.png"
